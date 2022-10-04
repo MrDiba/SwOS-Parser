@@ -9,7 +9,7 @@ import re
 # Check if there is an argument given.
 if len(sys.argv) != 2:
     print("""
-    Usage: python parser.py [FILE]
+    Usage: python3 parser.py [FILE]
     When there is no FILE specified, print this information and quit
 
     Input: Backup from SwitchOS
