@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 # Translate SwitchOS wannabe JSON backup files to workable JSON and write it to a file.
 
